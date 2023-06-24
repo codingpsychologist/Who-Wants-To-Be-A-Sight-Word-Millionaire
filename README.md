@@ -6,6 +6,8 @@ I enjoyed the process of creating this project and am thankful to the many resou
 is presented with an incomplete sentence. They are given four selections, and must select the correct sight word. If they get stuck, they
 can use the 50/50 lifeline, poll, or phone-a-friend.
 
+https://youtu.be/81sMpEDpzXc
+
 Requirements
 Python 3.x
 Tkinter library
